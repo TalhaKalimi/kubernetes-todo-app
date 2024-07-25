@@ -2,6 +2,9 @@
 
 ## Project Overview
 
+![Kubernetes To-Do App Architecture](/kubernetes-todo-app.jpeg)
+
+
 This project is a microservices-based To-Do application deployed on Kubernetes. It consists of the following services:
 - Frontend: A React application for the user interface.
 - API Gateway: A Node.js application that routes requests to the appropriate backend services.
