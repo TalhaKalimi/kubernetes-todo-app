@@ -1,4 +1,4 @@
-# Kubernetes To-Do App
+# KubeTask
 
 ## Project Overview
 
